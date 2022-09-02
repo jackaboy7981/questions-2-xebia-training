@@ -1,0 +1,8 @@
+C:\Users\jaabraham\source\repos\q6\q6\bin\Debug\q6.exe.config
+C:\Users\jaabraham\source\repos\q6\q6\bin\Debug\q6.exe
+C:\Users\jaabraham\source\repos\q6\q6\bin\Debug\q6.pdb
+C:\Users\jaabraham\source\repos\q6\q6\obj\Debug\q6.csproj.AssemblyReference.cache
+C:\Users\jaabraham\source\repos\q6\q6\obj\Debug\q6.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaabraham\source\repos\q6\q6\obj\Debug\q6.csproj.CoreCompileInputs.cache
+C:\Users\jaabraham\source\repos\q6\q6\obj\Debug\q6.exe
+C:\Users\jaabraham\source\repos\q6\q6\obj\Debug\q6.pdb

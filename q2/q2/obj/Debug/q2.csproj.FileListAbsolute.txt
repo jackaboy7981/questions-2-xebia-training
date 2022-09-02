@@ -1,0 +1,8 @@
+C:\Users\jaabraham\source\repos\q2\q2\bin\Debug\q2.exe.config
+C:\Users\jaabraham\source\repos\q2\q2\bin\Debug\q2.exe
+C:\Users\jaabraham\source\repos\q2\q2\bin\Debug\q2.pdb
+C:\Users\jaabraham\source\repos\q2\q2\obj\Debug\q2.csproj.AssemblyReference.cache
+C:\Users\jaabraham\source\repos\q2\q2\obj\Debug\q2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaabraham\source\repos\q2\q2\obj\Debug\q2.csproj.CoreCompileInputs.cache
+C:\Users\jaabraham\source\repos\q2\q2\obj\Debug\q2.exe
+C:\Users\jaabraham\source\repos\q2\q2\obj\Debug\q2.pdb
