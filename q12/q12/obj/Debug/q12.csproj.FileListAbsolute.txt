@@ -1,0 +1,8 @@
+C:\Users\jaabraham\source\repos\q12\q12\bin\Debug\q12.exe.config
+C:\Users\jaabraham\source\repos\q12\q12\bin\Debug\q12.exe
+C:\Users\jaabraham\source\repos\q12\q12\bin\Debug\q12.pdb
+C:\Users\jaabraham\source\repos\q12\q12\obj\Debug\q12.csproj.AssemblyReference.cache
+C:\Users\jaabraham\source\repos\q12\q12\obj\Debug\q12.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaabraham\source\repos\q12\q12\obj\Debug\q12.csproj.CoreCompileInputs.cache
+C:\Users\jaabraham\source\repos\q12\q12\obj\Debug\q12.exe
+C:\Users\jaabraham\source\repos\q12\q12\obj\Debug\q12.pdb

@@ -1,0 +1,8 @@
+C:\Users\jaabraham\source\repos\q20\q20\bin\Debug\q20.exe.config
+C:\Users\jaabraham\source\repos\q20\q20\bin\Debug\q20.exe
+C:\Users\jaabraham\source\repos\q20\q20\bin\Debug\q20.pdb
+C:\Users\jaabraham\source\repos\q20\q20\obj\Debug\q20.csproj.AssemblyReference.cache
+C:\Users\jaabraham\source\repos\q20\q20\obj\Debug\q20.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaabraham\source\repos\q20\q20\obj\Debug\q20.csproj.CoreCompileInputs.cache
+C:\Users\jaabraham\source\repos\q20\q20\obj\Debug\q20.exe
+C:\Users\jaabraham\source\repos\q20\q20\obj\Debug\q20.pdb

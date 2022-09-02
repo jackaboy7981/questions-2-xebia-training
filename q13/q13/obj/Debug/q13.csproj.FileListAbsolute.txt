@@ -1,0 +1,8 @@
+C:\Users\jaabraham\source\repos\q13\q13\bin\Debug\q13.exe.config
+C:\Users\jaabraham\source\repos\q13\q13\bin\Debug\q13.exe
+C:\Users\jaabraham\source\repos\q13\q13\bin\Debug\q13.pdb
+C:\Users\jaabraham\source\repos\q13\q13\obj\Debug\q13.csproj.AssemblyReference.cache
+C:\Users\jaabraham\source\repos\q13\q13\obj\Debug\q13.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaabraham\source\repos\q13\q13\obj\Debug\q13.csproj.CoreCompileInputs.cache
+C:\Users\jaabraham\source\repos\q13\q13\obj\Debug\q13.exe
+C:\Users\jaabraham\source\repos\q13\q13\obj\Debug\q13.pdb

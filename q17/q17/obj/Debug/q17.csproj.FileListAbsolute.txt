@@ -1,0 +1,8 @@
+C:\Users\jaabraham\source\repos\q17\q17\bin\Debug\q17.exe.config
+C:\Users\jaabraham\source\repos\q17\q17\bin\Debug\q17.exe
+C:\Users\jaabraham\source\repos\q17\q17\bin\Debug\q17.pdb
+C:\Users\jaabraham\source\repos\q17\q17\obj\Debug\q17.csproj.AssemblyReference.cache
+C:\Users\jaabraham\source\repos\q17\q17\obj\Debug\q17.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaabraham\source\repos\q17\q17\obj\Debug\q17.csproj.CoreCompileInputs.cache
+C:\Users\jaabraham\source\repos\q17\q17\obj\Debug\q17.exe
+C:\Users\jaabraham\source\repos\q17\q17\obj\Debug\q17.pdb

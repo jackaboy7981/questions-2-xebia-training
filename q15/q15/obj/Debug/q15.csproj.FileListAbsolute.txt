@@ -1,0 +1,8 @@
+C:\Users\jaabraham\source\repos\q15\q15\bin\Debug\q15.exe.config
+C:\Users\jaabraham\source\repos\q15\q15\bin\Debug\q15.exe
+C:\Users\jaabraham\source\repos\q15\q15\bin\Debug\q15.pdb
+C:\Users\jaabraham\source\repos\q15\q15\obj\Debug\q15.csproj.AssemblyReference.cache
+C:\Users\jaabraham\source\repos\q15\q15\obj\Debug\q15.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaabraham\source\repos\q15\q15\obj\Debug\q15.csproj.CoreCompileInputs.cache
+C:\Users\jaabraham\source\repos\q15\q15\obj\Debug\q15.exe
+C:\Users\jaabraham\source\repos\q15\q15\obj\Debug\q15.pdb

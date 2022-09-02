@@ -1,0 +1,8 @@
+C:\Users\jaabraham\source\repos\q18\q18\bin\Debug\q18.exe.config
+C:\Users\jaabraham\source\repos\q18\q18\bin\Debug\q18.exe
+C:\Users\jaabraham\source\repos\q18\q18\bin\Debug\q18.pdb
+C:\Users\jaabraham\source\repos\q18\q18\obj\Debug\q18.csproj.AssemblyReference.cache
+C:\Users\jaabraham\source\repos\q18\q18\obj\Debug\q18.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaabraham\source\repos\q18\q18\obj\Debug\q18.csproj.CoreCompileInputs.cache
+C:\Users\jaabraham\source\repos\q18\q18\obj\Debug\q18.exe
+C:\Users\jaabraham\source\repos\q18\q18\obj\Debug\q18.pdb
